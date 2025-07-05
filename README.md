@@ -5,7 +5,7 @@ Users can customize the password length, choose to include numbers and special c
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Generate random, secure passwords
 -  Adjustable password length (4–32 characters)
